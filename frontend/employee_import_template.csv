@@ -1,0 +1,3 @@
+mode,email,name,staff_code,role,department,location,manager_email,type,hire_date,annual_leave_base,balance_al,balance_al_carry_over,balance_bl,balance_cl,balance_cpl,balance_dc,balance_ml,balance_pl,balance_sl,carry_over_reset_month
+add,jane@example.com,Sample User,OF099,employee,Sales,HQ,john@example.com,office,2026-01-15,14,,,,,,,,,,10
+edit,jane@example.com,Sample User,OF099,approver,Sales,HQ,leave@example.com,office,2026-01-15,14,12,2,1,0,0,0,0,0,0,10

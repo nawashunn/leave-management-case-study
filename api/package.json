@@ -1,0 +1,21 @@
+{
+  "name": "case-study-lms-api",
+  "version": "1.0.0",
+  "description": "Case Study Leave Management System API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "csv-stringify": "^6.4.6",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^2.0.0",
+    "nodemailer": "^6.9.7",
+    "pg": "^8.10.0"
+  }
+}
