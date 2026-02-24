@@ -1,0 +1,24 @@
+# Dependencies
+api/node_modules/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Runtime/generated data
+uploads/
+backups/
+postgres-data/
+
+# TLS and cert material
+certs/
+*.pfx
+*.p12
+*.crt
+*.key
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
